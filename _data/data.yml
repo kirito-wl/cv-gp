@@ -49,8 +49,8 @@ education:
         university: University of Portsmouth
         time: 2008 - 2012
         
-      - certification: Professional Cloud Architect
-        provider: Google Cloud
+      - degree: Professional Cloud Architect
+        university: Google Cloud
         time: 2023 - 2025
         details: |
           Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
