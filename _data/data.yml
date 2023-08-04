@@ -1,6 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
 
 sidebar:
     position: right # position of the sidebar : left or right
@@ -8,27 +5,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Will Louzado
+    tagline: Senior Talent Partner / Aspiring Platform Engineer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: will.louzado3@gmail.com
+    phone: 07xxx xxxxxx
+    timezone: UTC
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: kirito-wl.github.io #do not add http://
+    linkedin: wlouzado
+    github: kirito-wl
+    pdf: Upcoming
 
     languages:
       title: Languages
@@ -36,74 +25,60 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Video Games (RPG, FPS)
           link:
 
-        - item: Snowboarding
+        - item: Gym
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Driven, self-taught aspiring Platform Engineer and relationship builder determined to unblock problems for companies that want to modernise and become more efficient through the use of technology.
+      Early foundation in IT Support, bulk as a technical recruiter and most recently a Platform Engineer, I bring a self starter attitude and experience serving stakeholders in challenging environments both large and small.
+      Over the last two years specifically, I have been working towards a career change back to hands on IT, gaining proficiency and professional certifications in Google Cloud and associated technologies for a leading Google Cloud Partner while building their technical teams. 
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc Economics
+        university: University of Portsmouth
+        time: 2008 - 2012
+        
+      - Certification: Professional Cloud Architect
+        Provider: Google Cloud
+        time: 2023 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
+            - Design and plan a cloud solution architecture
+            - Design for security and compliance
+            - Manage and provision the cloud solution infrastructure
+            - Ensure solution and operations reliability
+            - Analyze and optimize technical and business processes
+            - Manage implementations of cloud architecture
+
+      - Certification: Associate Cloud Engineer
+        Provider: Google Cloud
+        time: 2022 - 2025
+
+      - Certification: Cloud Digital Leader
+        Provider: Google Cloud
+        time: 2021 - 2024        
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Lead Talent Partner
+        time: Feb 2021 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Appsbroker is one of the largest Google Cloud-only Agile Systems Integrators and Managed Services Providers (MSPs) in EMEA delivering digital transformation for some of the worlds leading organisations. Privately owned and based in Swindon.
+          Originally brought on to scale up Platform, Data and Application Development teams to meet a huge demand for our services as a result of digital transformational needs across the industry.
+          From Day 1 - Ongoing learning and mentoring, resulting in a secondment position to Platform Engineering.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
