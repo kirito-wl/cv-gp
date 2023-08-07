@@ -7,14 +7,14 @@ sidebar:
     # Profile information
     name: Will Louzado
     tagline: Senior Talent Partner / Aspiring Platform Engineer
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: will.louzado3@gmail.com
     phone: 07xxx xxxxxx
     timezone: UTC
     citizenship:
-    website: kirito-wl.github.io #do not add http://
+    website: kirito-wl.github.io 
     linkedin: wlouzado
     github: kirito-wl
     pdf: Upcoming
@@ -43,47 +43,39 @@ career-profile:
       Over the last two years specifically, I have been working towards a career change back to hands on IT, gaining proficiency and professional certifications in Google Cloud and associated technologies for a leading Google Cloud Partner while building their technical teams. 
       
 education:
-    title: Education
+    title: Education & Certifications
     info:
-      - degree: BSc Economics
-        university: University of Portsmouth
-        time: 2008 - 2012
-        
+
       - degree: Professional Cloud Architect
         university: Google Cloud
         time: 2023 - 2025
-        details: |
-          Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
-            - Design and plan a cloud solution architecture
-            - Design for security and compliance
-            - Manage and provision the cloud solution infrastructure
-            - Ensure solution and operations reliability
-            - Analyze and optimize technical and business processes
-            - Manage implementations of cloud architecture
 
-      - certification: Associate Cloud Engineer
-        provider: Google Cloud
+      - degree: Associate Cloud Engineer
+        university: Google Cloud
         time: 2022 - 2025
 
-      - certification: Cloud Digital Leader
-        provider: Google Cloud
+      - degree: Cloud Digital Leader
+        university: Google Cloud
         time: 2021 - 2024        
+
+      - degree: BSc Economics
+        university: University of Portsmouth
+        time: 2008 - 2012
         
 experiences:
     title: Experiences
     info:
       - role: Lead Talent Partner
         time: Feb 2021 - Present
-        company: Startup Hubs, San Francisco
+        company: Appsbroker
         details: |
-          Appsbroker is one of the largest Google Cloud-only Agile Systems Integrators and Managed Services Providers (MSPs) in EMEA delivering digital transformation for some of the worlds leading organisations. Privately owned and based in Swindon.
-          Originally brought on to scale up Platform, Data and Application Development teams to meet a huge demand for our services as a result of digital transformational needs across the industry.
+          Appsbroker is one of the largest Google Cloud-only Agile Systems Integrators and Managed Services Providers (MSPs) in EMEA delivering digital transformation for some of the worlds leading organisations. It is Privately owned and based in Swindon.
+          I was originally brought on to scale up Platform, Data and Application Development teams to meet a huge demand for our services as a result of digital transformational needs across the industry.
           From Day 1 - Ongoing learning and mentoring, resulting in a secondment position to Platform Engineering.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Junior Platform Engineer
+        time: Jan 2023 - Present
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +84,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Talent Acquisition Partner
+        time: July 2017 - March 2020
+        company: FLEETCOR Technologies
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,6 +95,18 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+      - role: Senior Recruiter
+        time: September 2012 - July 2017
+        company: Outsource UK Ltd
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
 
 certifications:
       title: Certifications
@@ -191,28 +195,6 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -236,4 +218,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Published using GitHub pages. Theme credit - <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
