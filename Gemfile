@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-# gem "rails"
+gem "rails"
 gem "jekyll"
 gem 'github-pages'
-
+gem 'ruby'
+gem 'liquid'
